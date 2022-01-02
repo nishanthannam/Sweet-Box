@@ -1,1 +1,8 @@
-I am creating this file for the deployment of test cases
+#I am creating this file for the deployment of test cases
+<html>
+<body>
+<p>
+This is Testings.txt page
+</p>
+</body>
+</html>

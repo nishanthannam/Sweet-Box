@@ -1,1 +1,8 @@
-I am adding this file for test cases to send them to the pre-production and production phases
+#I am adding this file for test cases to send them to the pre-production and production phases
+<html>
+<body>
+<p>
+This is Testing.txt page
+</p>
+</body>
+</html>

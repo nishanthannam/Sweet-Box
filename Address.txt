@@ -1,4 +1,13 @@
 
+<<<<<<< HEAD
 The address is: xyz@yahoo.com
+=======
+<<<<<<< HEAD
+I am adding our address to know you
+=======
+
+I am adding our address to know your profile
+>>>>>>> 46df02a (Updated Address.txt)
+>>>>>>> 5ea4c2c (Updated Address.txt)
 
 The Address is: xyz@gmail.com

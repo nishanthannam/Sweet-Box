@@ -1,5 +1,6 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 The address is: xyz@yahoo.com
 =======
 <<<<<<< HEAD
@@ -11,3 +12,8 @@ I am adding our address to know your profile
 >>>>>>> 5ea4c2c (Updated Address.txt)
 
 The Address is: xyz@gmail.com
+=======
+
+I am adding our address to know you
+
+>>>>>>> 4878ec43ed4e9733821adcfad6630cb7ae1e6456

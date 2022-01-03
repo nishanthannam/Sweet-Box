@@ -1,9 +1,3 @@
 
 I am adding our address to know you
-<<<<<<< Updated upstream
 
-The address is: xyz@yahoo.com
-
-=======
-The Address is: xyz@gmail.com
->>>>>>> Stashed changes

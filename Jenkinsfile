@@ -17,9 +17,7 @@ pipeline
 				steps
 				{
 				echo 'Hello Test to the World'
-					sh '''
-						 ./Read.bash
-					'''
+				sh "./Read.bash"
 				}
 			}
 			

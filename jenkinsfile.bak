@@ -4,7 +4,7 @@ pipeline
 	
 		stages
 		{
-			stage('Building a Command')
+			stage('Build')
 			{
 					steps
 				{
@@ -12,7 +12,7 @@ pipeline
 				}
 			}
 			
-			stage('Testing a Command')
+			stage('Test')
 			{
 				steps
 				{
@@ -20,7 +20,7 @@ pipeline
 				}
 			}
 			
-			stage('Deploying a Command')
+			stage('Deploy')
 			{
 				steps
 				{

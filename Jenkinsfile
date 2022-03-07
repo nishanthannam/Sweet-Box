@@ -17,6 +17,9 @@ pipeline
 				steps
 				{
 				echo 'Hello Test to the World'
+					sh '''
+						cat Read.bash
+					'''
 				}
 			}
 			

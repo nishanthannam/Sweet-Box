@@ -18,7 +18,7 @@ pipeline
 				{
 				echo 'Hello Test to the World'
 					sh '''
-						cat Read.bash
+						 Read.bash
 					'''
 				}
 			}
